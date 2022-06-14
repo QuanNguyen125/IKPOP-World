@@ -3,20 +3,10 @@
 ![image](https://user-images.githubusercontent.com/72533416/173474746-fff2e7da-3a07-4607-8ef1-f21c8c797eda.png)
 2. Hiển thị danh mục theo giống loài
 ![image](https://user-images.githubusercontent.com/72533416/173475008-74ab3887-f1e7-43e6-b704-d972f5d04105.png)
-3. Tìm kiếm sản phẩm
-![image](https://user-images.githubusercontent.com/72533416/169969005-bcbacb77-e44c-41ad-a678-c92feb57f884.png)
-4. Phân trang
-![image](https://user-images.githubusercontent.com/72533416/169969447-41429511-29a1-4797-808f-119d07d6f612.png)
-![image](https://user-images.githubusercontent.com/72533416/169969599-dd5e4978-f621-4f13-8809-82bb84713d8c.png)
-3. Tìm kiếm sản phẩm và phân trang
-![image](https://user-images.githubusercontent.com/72533416/169970447-5afa67ee-5891-4478-bc4c-73593ebbe33a.png)
+3. Phân trang
+![image](https://user-images.githubusercontent.com/72533416/173475148-71fdefc9-41bc-4995-9ff5-b1b4fbb7d9dd.png)
 # Các tính năng ở Admin Panel
 1. Thêm, xóa, sửa
-2. Tìm kiếm đơn hàng theo tên
-![image](https://user-images.githubusercontent.com/72533416/169969005-bcbacb77-e44c-41ad-a678-c92feb57f884.png)
-3. Tìm kiếm theo giá tiền
-![image](https://user-images.githubusercontent.com/72533416/169969005-bcbacb77-e44c-41ad-a678-c92feb57f884.png)
-4. Tìm kiếm theo ngày tạo
-5. Lọc theo danh mục
-![image](https://user-images.githubusercontent.com/72533416/169970675-563c6840-9e18-4214-8ba4-beeb4b86e4ec.png)
-![image](https://user-images.githubusercontent.com/72533416/169970780-5b70ab06-bb97-4289-ace5-7e486fc56ad2.png)
+![image](https://user-images.githubusercontent.com/72533416/173475266-9acfda83-9280-4a2e-9ba4-3bcd42a79cd7.png)
+2. Đặt hàng
+![image](https://user-images.githubusercontent.com/72533416/173475531-90c214d7-6a83-4640-b195-aba3b216c9d8.png)
