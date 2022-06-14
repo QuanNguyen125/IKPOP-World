@@ -1,0 +1,103 @@
+﻿@model Book
+<link href="~/css/Style.css" rel="stylesheet" />
+
+<div class="card" style="width: 100%;">
+    <section class="menu" id="menu">
+
+        <h1 class="heading"> IKPOP-World </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20201003/3012020120154_album%20Blackpinl.png" alt="ALBUM BLACKPINK: THE ALBUM" />
+                <h3>ALBUM BLACKPINK: THE ALBUM</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20220423/23042022120413_Signal_C___xanh.jpg" alt="ALBUM TWICE - SIGNAL" />
+                <h3>ALBUM TWICE - SIGNAL</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+             <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20220610/10062022070650_album_prood.jpg" alt="ALBUM BTS - PROOF" />
+                <h3>ALBUM BTS - PROOF</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20211002/02102021051007_set_txt.jpg" alt="TXT SET PTB VÀ EXTENDED EDITION" />
+                <h3>TXT SET PTB VÀ EXTENDED EDITION</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+             <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20210903/03092021040904_LISA_Ktown.jpg" alt="ALBUM LALISA KTOWN" />
+                <h3>ALBUM LALISA KTOWN</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+             <div class="box">
+                <img src="https://mcdn.nhanh.vn/store/26155/ps/20210531/31052021030558_ALBUM_ncT_WE_GO_UP.jpg" alt="ALBUM NCT DREAM - WE GO UP" />
+                <h3>ALBUM NCT DREAM - WE GO UP</h3>
+                <h5>50.000m</h5>
+                <form id="@Model.BookID" asp-page="/MyCart" method="post">
+                    <input type="hidden" asp-for="BookID" />
+                    <input type="hidden" name="returnUrl"
+                           value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+
+                    <div>
+                        <button type="submit" class="btn"> Add To Cart</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </section>
+</div>
