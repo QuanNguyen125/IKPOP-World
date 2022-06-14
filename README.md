@@ -1,6 +1,6 @@
 # IKPOP-World
 1. Thêm sản phẩm vào giỏ hàng và thanh toán
-![image](![1](https://user-images.githubusercontent.com/72533416/173474746-fff2e7da-3a07-4607-8ef1-f21c8c797eda.png)))
+![image](![1](https://user-images.githubusercontent.com/72533416/173474746-fff2e7da-3a07-4607-8ef1-f21c8c797eda.png))
 2. Hiển thị danh mục theo giống loài
 ![image](![3](https://user-images.githubusercontent.com/72533416/173474587-1fd04ac7-f32f-4ecf-9fdd-08e1c4297b9a.PNG))
 3. Tìm kiếm sản phẩm
