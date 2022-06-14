@@ -2,7 +2,7 @@
 1. Thêm sản phẩm vào giỏ hàng và thanh toán
 ![image](https://user-images.githubusercontent.com/72533416/173474746-fff2e7da-3a07-4607-8ef1-f21c8c797eda.png)
 2. Hiển thị danh mục theo giống loài
-![image](![3](https://user-images.githubusercontent.com/72533416/173474587-1fd04ac7-f32f-4ecf-9fdd-08e1c4297b9a.PNG))
+![image](https://user-images.githubusercontent.com/72533416/173475008-74ab3887-f1e7-43e6-b704-d972f5d04105.png)
 3. Tìm kiếm sản phẩm
 ![image](https://user-images.githubusercontent.com/72533416/169969005-bcbacb77-e44c-41ad-a678-c92feb57f884.png)
 4. Phân trang
